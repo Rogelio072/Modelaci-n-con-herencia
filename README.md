@@ -1,2 +1,2 @@
-# Modelaci-n-con-herencia
+# Modelacion-con-herencia
 Rogelio De Leon 262024 PROGRAMACIÓN ORIENTADA A OBJETOS - SECCIÓN - 20
